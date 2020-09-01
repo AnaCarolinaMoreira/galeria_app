@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "753071500195",
+    "firebase_url": "https://app-galeria.firebaseio.com",
+    "project_id": "app-galeria",
+    "storage_bucket": "app-galeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753071500195:android:d2c0d06a50bcad76484816",
+        "android_client_info": {
+          "package_name": "ciolfi.com.galeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753071500195-5e84up3j2cp7tjnp7lalcjsg4k2cln3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-UTrncne4cDuZBB2EhWwoN5smftSwsiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753071500195-5e84up3j2cp7tjnp7lalcjsg4k2cln3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
